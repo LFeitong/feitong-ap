@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/feitong-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/feitong-app/static/js/main.bea47242.chunk.js",
+    "main.js.map": "/feitong-app/static/js/main.bea47242.chunk.js.map",
+    "runtime-main.js": "/feitong-app/static/js/runtime-main.9a6e9f10.js",
+    "runtime-main.js.map": "/feitong-app/static/js/runtime-main.9a6e9f10.js.map",
+    "static/js/2.f63049c5.chunk.js": "/feitong-app/static/js/2.f63049c5.chunk.js",
+    "static/js/2.f63049c5.chunk.js.map": "/feitong-app/static/js/2.f63049c5.chunk.js.map",
+    "static/js/3.7982ca2e.chunk.js": "/feitong-app/static/js/3.7982ca2e.chunk.js",
+    "static/js/3.7982ca2e.chunk.js.map": "/feitong-app/static/js/3.7982ca2e.chunk.js.map",
+    "index.html": "/feitong-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/feitong-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f63049c5.chunk.js.LICENSE.txt": "/feitong-app/static/js/2.f63049c5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/feitong-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6e9f10.js",
+    "static/js/2.f63049c5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bea47242.chunk.js"
+  ]
+}
